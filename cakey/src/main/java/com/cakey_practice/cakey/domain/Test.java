@@ -1,4 +1,4 @@
-package com.cakey_practice.cakey.controller;
+package com.cakey_practice.cakey.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

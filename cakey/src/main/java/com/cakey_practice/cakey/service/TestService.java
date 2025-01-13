@@ -1,5 +1,7 @@
-package com.cakey_practice.cakey.controller;
+package com.cakey_practice.cakey.service;
 
+import com.cakey_practice.cakey.domain.Test;
+import com.cakey_practice.cakey.dto.TestDto;
 import org.springframework.stereotype.Service;
 
 @Service

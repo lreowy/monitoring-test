@@ -1,10 +1,9 @@
 package com.cakey_practice.cakey.controller;
 
+import com.cakey_practice.cakey.dto.TestDto;
+import com.cakey_practice.cakey.service.TestService;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.Mapping;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
